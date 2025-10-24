@@ -1,3 +1,5 @@
+Projeto em desenvolvimento ainda e pode não funcionar direito ainda.
+
 # 🔐 Painel SSH - Sistema Administrativo Multi-nível
 
 Sistema completo de gerenciamento de acessos SSH com múltiplos níveis de usuários, cobrança automática e monitoramento em tempo real.
@@ -241,3 +243,4 @@ Para suporte técnico ou dúvidas:
 ---
 
 **Desenvolvido com ❤️ para gerenciamento profissional de SSH**
+contato@cloudjf.com.br
